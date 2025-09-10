@@ -1,3 +1,20 @@
+ //Portugol para JavaScript
+ //declaração de variáveis
+
+ /*Em portugol:
+    variável nome: caractere
+    variável sobrenome: caractere
+    variável idade: inteiro
+    variável altura: real
+    variável ehHumano: lógico
+
+    escreba("Nome: ", nome)
+    escreba("Sobrenome: ", sobrenome)
+    escreba("Idade: ", idade)
+    escreba("Altura: ", altura)
+    escreba("É humano? ", ehHumano)
+
+ */
 let nome
 let sobrenome
 let idade
